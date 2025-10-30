@@ -1,0 +1,8 @@
+Lib/
+Lib/*
+Scripts/
+Scripts/*
+pyvenv.*
+Quantitative Developer.pdf
+share
+share/*
