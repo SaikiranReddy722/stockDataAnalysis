@@ -6,3 +6,4 @@ pyvenv.*
 Quantitative Developer.pdf
 share
 share/*
+__pycache__/
